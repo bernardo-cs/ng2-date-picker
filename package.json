@@ -29,7 +29,7 @@
     "moment": "^2.17.1"
   },
   "devDependencies": {
-    "@angular/cli": "1.0.0-rc.1",
+    "@angular/cli": "^1.0.0",
     "@angular/common": "^2.4.0",
     "@angular/compiler": "^2.4.0",
     "@angular/compiler-cli": "^2.4.0",
