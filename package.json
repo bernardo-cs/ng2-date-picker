@@ -26,7 +26,7 @@
     "picker"
   ],
   "dependencies": {
-    "moment": "^2.17.1"
+    "moment": "^2.26.0"
   },
   "devDependencies": {
     "@angular/cli": "1.0.0-rc.1",
